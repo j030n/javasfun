@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j030n
+- 👋 Hi, I’m Jay
 - 👀 I’m interested in making lives better through technical advancements.
 - 🌱 I’m currently learning machine learning/AI and cloud builds
 - 💞️ I’m looking to collaborate on what interesting projects come my way
